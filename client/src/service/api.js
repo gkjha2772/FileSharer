@@ -7,7 +7,10 @@ export const UploadFile = async (data) => {
     console.log("Api called");
     console.log(data);
     console.log(API_URL);
-    const response = await axios.post(`${API_URL}/upload`, data);
+    const token = localStorage.getItem("token");
+    const response = await axios.post(`${API_URL}/upload`, data, {
+      headers: { Authorization: `Bearer ${token}` },
+    });
     console.log(response.data);
     return response.data;
   } catch (error) {
