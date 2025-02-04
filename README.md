@@ -84,16 +84,7 @@ A file-sharing application that allows users to upload files to a server, store 
 2. Use the interface to upload files.
 3. After uploading, a download link will be generated and displayed.
 
-### Videos
 
-For a visual guide on how to use the application, you can watch the following videos:
-
-- [**Introduction to File Sharing App**
-- [**How to Upload and Share Files**]
-  
-
-
-https://github.com/user-attachments/assets/356d68ee-a1b8-467d-8253-562f6c8e0829
 
 
 ### Contributing
