@@ -84,11 +84,16 @@ cd ../client
 npm start
 ```
 
+
 ## 🎯 **Usage**  
 
 1. **Sign up/Login** to access the platform.  
 2. **Upload files** securely to the server.  
 3. **Copy & share** the generated **download link**.  
+
+##  **Video**  
+
+https://github.com/user-attachments/assets/61ef531e-7400-4e27-8b78-59b21f7d1bfd
 
 ## 🤝 **Contributing**  
 
