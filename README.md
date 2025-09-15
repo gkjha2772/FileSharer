@@ -1,4 +1,3 @@
-Here's the updated **GitHub README** with authentication features included:  
 
 ---
 
